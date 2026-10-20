@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+</head>
+<body class="{{ page.body_class }}">
+  <header class="site-header">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <nav class="site-nav" aria-label="Main">
+      <ul>
+        {%- for item in site.nav %}
+        {%- assign is_pdf = item.url | slice: -4, 4 %}
+        <li><a href="{{ item.url | relative_url }}"
+          {%- if page.url == item.url %} class="selected" aria-current="page"{% endif %}
+          {%- if is_pdf == ".pdf" %} target="_blank" rel="noopener"{% endif %}>{{ item.title }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+  </header>
+
+  <main class="content{% if page.wide %} content--wide{% endif %}">
+    {%- if page.title and page.show_title != false %}
+    <h1 class="visually-hidden">{{ page.title }}</h1>
+    {%- endif %}
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    &copy; {{ site.author }}
+  </footer>
+
+  <script>
+    // Open links to other websites, and PDFs, in a new tab.
+    document.querySelectorAll('a[href]').forEach(function (link) {
+      var external = link.hostname && link.hostname !== location.hostname;
+      var pdf = /\.pdf$/i.test(link.pathname);
+      if (external || pdf) {
+        link.target = '_blank';
+        link.rel = 'noopener';
+      }
+    });
+  </script>
+</body>
+</html>

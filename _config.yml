@@ -1,0 +1,41 @@
+# ---------------------------------------------------------------
+# Site settings. Edit the values below; restart the preview after
+# changing this file (page edits update automatically).
+# ---------------------------------------------------------------
+title: Dr. Jed McKinney
+description: Astrophysicist | NASA Hubble Fellow | Galaxy Evolution & Dust
+author: Jed McKinney
+url: https://jedmckinney.com
+
+# The menu across the top of every page, in order.
+# "title" is the word shown; "url" is the page it opens.
+nav:
+  - title: about me
+    url: /about/
+  - title: science
+    url: /science/
+  - title: resources & tools
+    url: /resources/
+  - title: group
+    url: /group/
+  - title: choir
+    url: /choir/
+  - title: cv
+    url: /assets/files/McKinney_CV.pdf
+  - title: media
+    url: /media/
+
+markdown: kramdown
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+
+# Files that are not part of the website itself.
+exclude:
+  - README.md
+  - HOW-TO-EDIT.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - _originals
+  - preview.command
