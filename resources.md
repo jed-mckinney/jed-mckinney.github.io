@@ -4,7 +4,7 @@ title: resources & tools
 permalink: /resources/
 ---
 
-Below you can find code, data, and other resources my collaborators and I have built. More will be added as projects are released. If you have a question about anything posted here, or trouble getting code running, please don't hesitate to email me.
+Below you can find code, data, and other resources my students and I have built. If you have a question about anything posted here, or trouble getting code running, please don't hesitate to email me.
 
 <!--
   HOW TO ADD AN ENTRY: copy everything from <div class="entry" markdown="1">
@@ -25,11 +25,33 @@ A version of Adam Carnall's [Bagpipes](https://bagpipes.readthedocs.io) galaxy S
 </div>
 
 <div class="entry" markdown="1">
+<div markdown="1">
+## cortado
+
+A mid-infrared spectroscopic decomposition code, built on the heritage of similar tools like [CAFE](https://github.com/GOALS-survey/CAFE) and [PAHFIT](https://github.com/PAHFIT/pahfit). cortado is a lighter version of these models, optimized for spectro-photometric fitting of high-redshift galaxies usually with R~100 spectra. 
+This is the code used in the revised version of [McKinney et al. (2026)](https://arxiv.org/abs/2510.07365) as described in the erratum, and the updated arXiv posting. If using this code, please cite [McKinney et al. (2026)](https://arxiv.org/abs/2510.07365). 
+
+[Get the code on GitHub](https://github.com/jed-mckinney/cortado)
+</div>
+</div>
+
+<div class="entry" markdown="1">
+![Mid-infrared spectral templates](/assets/img/science-jwst-spectroscopy.jpg)
+
+<div markdown="1">
+## Mid-infrared templates
+
+Combined JWST MIRI LRS and Spitzer IRS spectra of z~1-2 massive, dust-obscured star-forming galaxies, described in [McKinney et al. (2026)](https://arxiv.org/abs/2510.07365). Data are available on request; please email me. Templates constructed from stacks of this sample will be made available soon. 
+
+</div>
+</div>
+
+<div class="entry" markdown="1">
 ![JWST and ALMA images of dust-obscured galaxies from SCUBADive](/assets/img/science-scubadive.jpg)
 
 <div markdown="1">
 ## SCUBADive Data Products
 
-JWST and ALMA data for 289 sub-millimeter galaxies observed with JWST and ALMA in the COSMOS-Web field, described in [McKinney et al. (2024)](https://arxiv.org/abs/2408.08346). Data are available on request; please email me.
+JWST and ALMA data for 289 sub-millimeter galaxies observed with JWST and ALMA in the COSMOS-Web field, described in [McKinney et al. (2025)](https://arxiv.org/abs/2408.08346). Data are available on request; please email me.
 </div>
 </div>

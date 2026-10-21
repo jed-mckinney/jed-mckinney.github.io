@@ -39,3 +39,4 @@ exclude:
   - vendor
   - _originals
   - preview.command
+  - publish.command

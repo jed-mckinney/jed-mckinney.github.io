@@ -86,3 +86,15 @@ change its `title` and `permalink`).
 
 Nothing you do here is public. The live site changes only when files are
 uploaded to GitHub.
+
+## Publishing edits made on your Mac
+
+1. Double-click `publish.command` in this folder (in Finder).
+2. It lists the files you changed and checks the site still builds. If
+   something is broken, it stops and nothing is published.
+3. Type a few words describing your change and press Return. To cancel
+   instead, just close the window.
+4. The live site updates about a minute later.
+
+Edits made on github.com and on your Mac can be mixed freely; the
+publish file brings in any github.com edits before uploading yours.

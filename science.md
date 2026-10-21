@@ -9,7 +9,7 @@ redirect_from:
   - "/artwork/5327187-An Infrared Perspective.html"
 ---
 
-I am an observational astronomer who uses telescopes like JWST, ALMA, and the VLA to reveal the gas and dust from which stars are born and black holes grow. Much of my work happens at infrared and radio wavelengths, where dust-obscured star formation and black hole accretion are revealed. In collaboration with my theorist colleagues, I also use simulations to test and refine our theories of dust. 
+I am an observational astronomer who uses telescopes like JWST, ALMA, and the VLA to uncover the gas and dust from which stars are born and black holes grow. Much of my work happens at infrared and radio wavelengths, where dust-obscured star formation and black hole accretion are revealed. In collaboration with my theorist colleagues, I also use simulations to test and refine our theories of dust. 
 
 ## Focus & Goals
 
@@ -53,7 +53,7 @@ The infrared is a rich regime of the electromagnetic spectrum host to bright sig
 I am a science affiliate and Galaxy Evolution Working Group co-lead for [The PRobe far-Infrared Mission for Astrophysics](https://prima.ipac.caltech.edu), or PRIMA for short. PRIMA was recently selected by NASA to advance to Phase B. This cryogenically-cooled, far-infrared space observatory could be launched as early as 2033. PRIMA will fill the observing gap between JWST's longest wavelength coverage and ALMA's shortest.
 
 
-## Selected Publications
+## Recent Publications
 
 - **McKinney et al. (2026)** — JWST Reveals a Candidate Supermassive Black Hole Binary at z=4.3 in the Brightest Sub-millimeter Galaxy in COSMOS-Web. [arXiv:2609.01711](https://arxiv.org/abs/2609.01711)
 - **McKinney et al. (2026)** — A JWST MIRI LRS Survey of 37 Massive Star-Forming Galaxies and AGN at Cosmic Noon: Overview and First Results. [arXiv:2510.07365](https://arxiv.org/abs/2510.07365)
