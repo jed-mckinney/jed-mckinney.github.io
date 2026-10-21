@@ -60,7 +60,7 @@ fi
 
 if git push -q; then
   echo "Published! The live site updates in about a minute:"
-  echo "  https://jed-mckinney.github.io/"
+  echo "  https://jedmckinney.com/"
   finish 0
 else
   echo
