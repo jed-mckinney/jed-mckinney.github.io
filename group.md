@@ -19,7 +19,7 @@ Virginia Vanicek (left) and Marcela Camberos Murillo (right) presenting their re
 - **Virginia Vanicek**, Former UT undergrad, now 1st year grad student at UMd with the NSF GRFP.
 - **Cassidy Novack**, Former Whitman undergrad and UT summer research student, now post-bacc at NRAO.
 - **Marcela Camberos Murillo**, UT undergrad
-- **[Dhruv Zimmerman](https://astro.ufl.edu/directory/dhruv-zimmerman/)**, UF grad working with me at UT for a 6 month pre-doc
+- **[Dhruv Zimmerman](https://astro.ufl.edu/directory/dhruv-zimmerman/)**, UF grad, worked with me at UT for a 6 month pre-doc
 - **Elaine Gammon**, UGA undergrad and UT REU, now NSF GRFP @ UW
 {: .people}
 
@@ -36,9 +36,17 @@ Virginia Vanicek (left) and Marcela Camberos Murillo (right) presenting their re
 
 ## Near-Peer Network
 
-Through organizations like [choir](https://www.choircollaboration.com/home) and [COSMOS](https://cosmos.astro.caltech.edu) I have the pleasure of working with incredible early-career postdocs and junior faculty. Here is a list of my closest scientific collaborators. Please check them and their work out!
+Through organizations like [choir](https://www.choircollaboration.com/home) and [COSMOS](https://cosmos.astro.caltech.edu) I have the pleasure of working with incredible early-career postdocs and junior faculty. Here is an incomplete list of my near-peer network. Please check them and their work out! 
 
 - [Prof. Arianna Long](https://astro.washington.edu/people/arianna-long) (UW)
 - [Dr. Erini Lambrides](https://erinilambrides.com) (NASA Goddard)
 - [Prof. Sinclaire Manning](https://sinclairemanning.com) (UMass)
+- [Dr. Gourav Khullar](https://astrokhullar.squarespace.com/) (UW)
+- [Dr. Taylor Hutchison](https://aibhleog.github.io/) (UT)
+- [Prof. Jonathan Cohn](https://jhcohn.github.io/) (VCU)
+- [Dr. Hollis Akins](https://hollisakins.com/) (Princeton)
+
+(Friends, let me know if you see this and I'd be happy to link you too!)
+
 {: .people}
+
