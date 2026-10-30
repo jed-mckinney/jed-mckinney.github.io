@@ -55,6 +55,7 @@ I am a science affiliate and Galaxy Evolution Working Group co-lead for [The PRo
 
 ## Recent Publications
 
+- **McKinney et al. (2026)** — . [arXiv:2610.37821](https://arxiv.org/abs/2610.37821)
 - **McKinney et al. (2026)** — JWST Reveals a Candidate Supermassive Black Hole Binary at z=4.3 in the Brightest Sub-millimeter Galaxy in COSMOS-Web. [arXiv:2609.01711](https://arxiv.org/abs/2609.01711)
 - **McKinney et al. (2026)** — A JWST MIRI LRS Survey of 37 Massive Star-Forming Galaxies and AGN at Cosmic Noon: Overview and First Results. [arXiv:2510.07365](https://arxiv.org/abs/2510.07365)
 - **McKinney et al. (2025)** — Modeling Galaxies in the Early Universe with Supernova Dust Attenuation. [arXiv:2502.14031](https://arxiv.org/abs/2502.14031)
